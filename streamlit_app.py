@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("welcome to my web")
+st.title("selamat datang di wekidi")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "ayo ngoding seru loh [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 st.image("81e283b2b7084963f89e7667ee2e0a57.jpg", width=200)
 

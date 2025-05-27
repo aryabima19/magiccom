@@ -16,3 +16,4 @@ else:
     st.writer(f"{angka} adalah bilangan ganjil")
     
 
+
